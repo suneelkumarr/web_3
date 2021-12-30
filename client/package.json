@@ -12,6 +12,7 @@
     "eth-revert-reason": "^1.0.3",
     "ethers": "^5.5.2",
     "framer-motion": "^5.5.5",
+    "netlify-cli": "^8.6.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1"
